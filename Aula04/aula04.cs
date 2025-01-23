@@ -2,7 +2,7 @@ using System;
 
 class Aula04{
 
-    int num = 10;
+    static int num = 10;
 
     static void Main(){
         int num2 = 0;
